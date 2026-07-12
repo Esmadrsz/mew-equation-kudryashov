@@ -29,6 +29,10 @@ The solution is a kink-type soliton:
 
 with xi = x - ct. What I found interesting when visualizing this: the wave preserves its shape as it propagates, which is the defining property of a soliton. Seeing the mathematical solution match the expected physical behavior was a good check.
 
+![Wave Propagation](wave_propagation.png)
+
+![Wave Profiles](wave_profiles.png)
+
 ## Usage
 
     pip install numpy matplotlib
